@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import styled from 'styled-components';
 
 const Bar = styled.div`
@@ -36,8 +37,6 @@ background: white;
 
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable react/prefer-stateless-function */
-
-import React, { Component } from 'react';
 
 class NavBar extends Component {
   render() {
