@@ -33,7 +33,7 @@ class App extends Component {
         selectedVideo: videos[0],
       });
     });
-  }
+  };
 
   render() {
     return (
